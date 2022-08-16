@@ -24,6 +24,12 @@ Currently all of the code here is in Python Programming language and I'd be very
 If you want to start solving LeetCode problems in another programming langauge, please create a folder for it, or request me to so. Both ways it'll be fine! Looking forward to your contribution.
 
 ## Connect with me
-[Twitter](https://twitter.com/Muhamma63227121)
-[Linkedin](https://www.linkedin.com/in/muhammad-anas-63744b235/)
-[Medium](https://medium.com/@muhammadanas0716)
+
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Muhamma63227121#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Muhamma63227121#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-anas-63744b235/#gh-dark-mode-only)
