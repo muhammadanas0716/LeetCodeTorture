@@ -20,4 +20,10 @@ Here are some of the LeetCode Problems I now started solving. I try to solve atl
 
 ## Contributing
 Currently all of the code here is in Python Programming language and I'd be very happy if you could solve these problems in other languages too! It'd be really awesome, and I'd heavily appreciate it!
-Hope you enjoy!
+
+If you want to start solving LeetCode problems in another programming langauge, please create a folder for it, or request me to so. Both ways it'll be fine! Looking forward to your contribution.
+
+## Connect with me
+[Twitter](https://twitter.com/Muhamma63227121)
+[Linkedin](https://www.linkedin.com/in/muhammad-anas-63744b235/)
+[Medium](https://medium.com/@muhammadanas0716)
