@@ -25,8 +25,8 @@ If you want to start solving LeetCode problems in another programming langauge, 
 
 ## Connect with me
 
-[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Muhamma63227121#gh-light-mode-only)
-[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/Muhamma63227121#gh-dark-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/MuhammadAnas707#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-light-mode-only)
 [![website](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@muhammadanas0716#gh-dark-mode-only)
