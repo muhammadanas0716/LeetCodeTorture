@@ -5,7 +5,7 @@
 //position[i] + 1 or position[i] - 1 with cost = 1.
 //Return the minimum cost needed to move all the chips to the same position.
 //
-// 
+//
 //Example 1:
 //
 //Input: position = [1,2,3]
@@ -24,7 +24,7 @@
 //
 //Input: position = [1,1000000000]
 //Output: 1
-// 
+//
 //Constraints:
 //
 //1 <= position.length <= 100
