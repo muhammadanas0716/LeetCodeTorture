@@ -19,7 +19,7 @@ Here are some of the LeetCode Problems that I have now started solving. I try to
 * Hard
 
 ## Contributing
-Currently all of the code here is in Python Programming language and I'd be very happy if you could solve these problems in other languages too! It'd be really awesome, and I'd heavily appreciate it!
+Currently all of the code here is in Python or C++ Programming language  and I'd be very happy if you could solve these problems in other languages too! It'd be really awesome, and I'd heavily appreciate it!
 
 If you want to start solving LeetCode problems in another programming langauge, please create a folder for it, or request me to do so. Both ways it'll be fine! Looking forward to your contribution.
 
