@@ -24,13 +24,21 @@ Constraints:
 
 class Solution {
 public:
-    int rec(vector<int>& nums,int idx){
-        if(idx>=nums.size())
-            return 0;
-        return max(nums[idx]+rec(nums,idx+2),rec(nums,idx+1));
-    }
-    
     int rob(vector<int>& nums) {
-        return rec(nums,0);
+        int n = nums.size();
+        if(n == 1)
+            return nums[0];
+        
+        vector<int> profit_till_now(n);
+        profit_till_now[0] = nums[0];
+        profit_till_now[1] = max(nums[0], nums[1]);
+        
+        for(int i = 2; i<n; i++){
+            profit_till_now[i] = max(profit_till_now[i-1], profit_till_now[i-2] + nums[i]);
+        }
+        for(int i : profit_till_now){
+            cout<<i<<" ";
+        }
+        return profit_till_now.back();
     }
 };
